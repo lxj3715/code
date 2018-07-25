@@ -1,1 +1,0 @@
-﻿delete from rule_config_code t where t.c_data_src='C' AND t.c_data_flag='CXGW';
